@@ -8,7 +8,7 @@ Smoother, sharper video in MPC-HC on Windows PCs with an NVIDIA RTX graphics car
 - **Frame generation** from 2× to 10×, or matched to your display's refresh rate (RTX 40 and 50 series).
 - **Film grain removal**, and **sharpening** that sharpens edges without halos.
 - **Converter** (preview): the same enhancements in a new video file that plays anywhere.
-- **Browser extension** for Chrome, Edge and Firefox: upscaling and frame generation for video in web pages, through WebGPU, so not only on NVIDIA cards.
+- **Browser extension** for Chrome, Edge, Brave and Firefox: upscaling and frame generation for video in web pages, through WebGPU, so not only on NVIDIA cards.
 
 https://github.com/user-attachments/assets/4eaf30e4-067b-4c37-8afa-46ca031bc868
 
